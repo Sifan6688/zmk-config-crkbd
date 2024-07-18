@@ -52,6 +52,7 @@
         compatible = "zmk,keymap";
 
         mac_layer {
+            display-name = "QWERTY";
             bindings = <
 &none  &kp Q  &kp W  &kp E      &kp R        &kp T                 &kp Y        &kp U           &kp I      &kp O    &kp P     &none
 &none  &kp A  &kp S  &kp D      &kp F        &kp G                 &kp H        &kp J           &kp K      &kp L    &kp SEMI  &none
